@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreevallijuturu
 - 👀 I’m interested in learning codes
-- 🌱 I’m currently learning python
-- 💞️ I really want to know how other people are getting ideas the codes
+- 🌱 I’m currently learning java
+- 💞️ I really want to know how other people are getting ideas of the codes
 - 📫 I'm still at basic learning 
 
 <!---
