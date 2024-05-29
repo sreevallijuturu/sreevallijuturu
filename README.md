@@ -1,8 +1,8 @@
--👋 Hello!I'm sree valli juturu
--🌱 Currently learning Java
--💻 Passionate about coding and technology
--🔍 I would like to explore new projects and collaborating on GitHub
--🚀 Excited to contribute to open source
+-👋 Hello!I'm sree valli juturu                                                                                                       
+-🌱 Currently learning Java                                                                                                                                    
+-💻 Passionate about coding and technology     
+-🔍 I would like to explore new projects and collaborating on GitHub    
+-🚀 Excited to contribute to open source         
 -📚 Always eager to learn and grow
 
 <!---
