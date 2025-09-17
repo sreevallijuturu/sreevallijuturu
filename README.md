@@ -1,8 +1,7 @@
 -👋 Hello!I'm sree valli juturu                                                                                                      
--🌱 Currently learning Web dev and pentesting                                                                                                                                    
+-🌱 Currently learning Web dev                                                                                                                                   
 -💻 Passionate about coding and technology     
--🔍 I would like to explore new projects and collaborating on GitHub    
--🚀 I have a grip on java,html,css,javascript,DSA        
+-🔍 I would like to explore new projects and collaborating on GitHub          
 -📚 Always eager to learn and grow
 
 <!---
